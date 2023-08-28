@@ -1,0 +1,4 @@
+"UserPrincipalName": "risky2@starbucks.kuriimio.com",
+"password": "Radwimps050410",
+"AadTenantDomain": "M365x86611055.onmicrosoft.com",
+"AadTenantId": "13bb1e02-5d4e-4cee-87d2-36b33fd266ee",
